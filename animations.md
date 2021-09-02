@@ -1,3 +1,3 @@
-### Random Optimization
+### Hyperparameter Optimization
 
-![Smallest Marginal Likelihood:](example.gif)
+![Smallest Marginal Likelihood:](MLL.gif)
