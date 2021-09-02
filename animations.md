@@ -1,3 +1,3 @@
 ### Random Optimization
 
-![Octocat](optim.gif)
+![Smallest Marginal Likelihood:](optim.gif)
